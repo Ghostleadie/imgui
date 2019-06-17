@@ -3,4 +3,4 @@
   imgui_draw.cpp
   imgui_widgets.cpp
   Generating Code...
-  ImGui.vcxproj -> E:\Documents\uni\Final Project\Game_Project\Brewski_Engine\Add-ons\imgui\bin\Debug-windows-x86_64\ImGui\ImGui.lib
+  ImGui.vcxproj -> E:\Documents\uni\Brewski_Engine\Brewski_Engine\Add-ons\imgui\bin\Debug-windows-x86_64\ImGui\ImGui.lib
